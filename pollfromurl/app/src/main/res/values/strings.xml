@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nimrod</string>
+    <string name="enter_url">Enter Url</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="start_service_toast">Starting Service</string>
+    <string name="start_service_error_toast">Url should start with http/s</string>
+    <string name="stop_service_toast">Stopping Service</string>
+</resources>
